@@ -6,7 +6,7 @@ WELCOME to Journée Gridap.jl!
 
 ## Pre-session checklist
 
-Click on any item for further instructions, if you do not meet the requirement.
+If you have not completed an item, click on it for further instructions.
 
 * [I have a Julia installation](#installing-julia) on my laptop
 * [I have a ParaView installation](#installing-paraview) on my laptop
@@ -74,9 +74,11 @@ Open the notebooks
 julia> using IJulia
 julia> notebook(dir=pwd())
 ```
-This will open a browser window. Navigate to the `notebooks` folder, open the tutorial `LoadGridap` and run it.
+This will open a browser window. 
 
-If there are no problems, open any other tutorial. Enjoy!
+Navigate to the `notebooks` folder, open the tutorial `LoadGridap` and run it.
+
+If there are no problems with `LoadGridap`, open any other tutorial. Enjoy!
 
 ## Pulling the latest version of the course material
 
