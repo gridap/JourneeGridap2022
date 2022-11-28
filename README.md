@@ -19,7 +19,7 @@ This event is hosted by Groupe Calcul and INRIA Saclay. The two speakers are Gri
 
 The session will consist of several **hands-on tutorials and exercises on Jupyter notebooks** to discover and learn about the basic and advanced features of [Gridap](https://github.com/gridap/Gridap.jl).
 
-⚠️ In order to follow the course activities on your laptop, **you'll need a local installation of Julia and ParaView**.
+⚠️ In order to follow the session activities on your laptop, **you'll need a local installation of Julia and ParaView**.
 
 **Alternatively, if you have access to [mathrice's JupyterCloud](https://jupytercloud.math.cnrs.fr/sites/)**, you only need to install ParaView and run the `LoadGridap` notebook on your JupyterLab notebook server.
 
@@ -93,7 +93,7 @@ Open Julia REPL
 $ julia --project
 
 ```
-and instantiate the environment and build the notebooks again
+and instantiate the environment again
 ```
 # Type ] to enter in pkg mode
 (JourneeGridap2022) pkg> instantiate
