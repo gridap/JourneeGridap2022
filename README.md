@@ -2,24 +2,24 @@
 
 WELCOME to Journée Gridap.jl!
 
-**Before starting the session, please make sure you have gone through the points of this checklist** 👇
+🚨 **BEFORE STARTING THE SESSION: Please make sure you have gone through the points below** 👇
 
-## Pre-course checklist
+## Pre-session checklist
 
 Click on any item for further instructions, if you do not meet the requirement.
 
 * [I have a Julia installation](#installing-julia) on my laptop
 * [I have a ParaView installation](#installing-paraview) on my laptop
-* [I have run the LoadGridap notebook](#running-the-notebooks-locally)
+* [I have run the `LoadGridap` notebook](#running-the-notebooks-locally)
 * [I have pulled the latest version](#pulling-the-latest-version-of-the-course-material) of this project
 
 ## About the tutorial
 
-This event is hosted by Groupe Calcul and INRIA Saclay. The two speakers are Gridap's founder [Francesc Verdugo](https://github.com/fverdugo) and contributor [Eric Neiva](https://github.com/ericneiva).
+This event is hosted by Groupe Calcul and INRIA Saclay. The two speakers are Gridap's founder [Francesc Verdugo](https://github.com/fverdugo) and Gridap's contributor [Eric Neiva](https://github.com/ericneiva).
 
 The session will consist of several **hands-on tutorials and exercises on Jupyter notebooks** to discover and learn about the basic and advanced features of [Gridap](https://github.com/gridap/Gridap.jl).
 
-In order to follow the course activities on your laptop, **you'll need a local installation of Julia and ParaView**.
+⚠️ In order to follow the course activities on your laptop, **you'll need a local installation of Julia and ParaView**.
 
 **Alternatively, if you have access to [mathrice's JupyterCloud](https://jupytercloud.math.cnrs.fr/sites/)**, you only need to install ParaView and run the `LoadGridap` notebook on your JupyterLab notebook server.
 
@@ -37,7 +37,7 @@ Please, make sure you follow the platform specific instructions by clicking on t
 
 Download ParaView for your platform of choice [here](https://www.paraview.org/download/).
 
-Installation for linux is very straighforward, you just need to download, uncompress and (optionally) add the binary folder to your `PATH` environment variable.
+Linux installation is very straighforward, you just need to download, uncompress and (optionally) add the binary folder to your `PATH` environment variable.
 
 ## Running the notebooks locally
 
@@ -74,7 +74,9 @@ Open the notebooks
 julia> using IJulia
 julia> notebook(dir=pwd())
 ```
-This will open a browser window. Navigate to the `notebooks` folder and open the tutorial you want. Enjoy!
+This will open a browser window. Navigate to the `notebooks` folder, open the tutorial `LoadGridap` and run it.
+
+If there are no problems, open any other tutorial. Enjoy!
 
 ## Pulling the latest version of the course material
 
