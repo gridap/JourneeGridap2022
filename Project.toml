@@ -1,6 +1,7 @@
 [deps]
 Gridap = "56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e"
 GridapEmbedded = "8838a6a3-0006-4405-b874-385995508d5d"
+GridapGmsh = "3025c34a-b394-11e9-2a55-3fee550c04c8"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 LineSearches = "d3d80556-e9d4-5f37-9878-2ab0fcc64255"
 Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
