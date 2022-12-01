@@ -4,7 +4,11 @@ WELCOME to Journée Gridap.jl!
 
 🚨 **BEFORE STARTING THE SESSION: Please make sure you have gone through the points below** 👇
 
-## Pre-session checklist
+## Session checklist
+
+```
+github.com/gridap/JourneeGridap2022
+```
 
 If you have not completed an item, click on it for further instructions.
 
