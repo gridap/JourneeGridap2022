@@ -19,7 +19,7 @@ If you have not completed an item, click on it for further instructions.
 
 ## About the tutorial
 
-This event is hosted by Groupe Calcul and INRIA Saclay. The two speakers are Gridap's founder [Francesc Verdugo](https://github.com/fverdugo) and Gridap's contributor [Eric Neiva](https://github.com/ericneiva).
+This event is hosted by Groupe Calcul and INRIA Saclay. The two speakers are Gridap's co-creator [Francesc Verdugo](https://github.com/fverdugo) and Gridap's contributor [Eric Neiva](https://github.com/ericneiva).
 
 The session will consist of several **hands-on tutorials and exercises on Jupyter notebooks** to discover and learn about the basic and advanced features of [Gridap](https://github.com/gridap/Gridap.jl).
 
